@@ -6,13 +6,9 @@ layout: default
 	<div class="center">
 		<div class="container">
 			<div class="content">
-				<% include achievements/2004_sep_2008_aug.html %>
-				<% include achievements/2006_apr_2006_nov.html %>
-				<% include achievements/2007_mar_2008_jun.html %>
-				<% include achievements/2008_jul_2011_feb.html %>
-				<% include achievements/2008_sep_2010_aug.html %>
-				<% include achievements/2011_mar_2011_apr.html %>
-				<% include achievements/2011_may_2011_sep.html %>
+			  {% for post in site.posts offset:1 %}
+			    {{ post.content }}
+			  {% endfor %}
 			</div>
 		</div>
 		<div class="clear"></div>
