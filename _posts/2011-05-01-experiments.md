@@ -18,7 +18,7 @@ Did experiments with technologies that propose solution for [C10k problem]. As a
 
 ## The third version 
 
- - Implementation was base ond [nginx] and [node.js].
+ - Implementation was based ond [nginx] and [node.js].
  - [express] and [LESS] was used.
  - [redis] and [MySQL] was used to store data.
 
