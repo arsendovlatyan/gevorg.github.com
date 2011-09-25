@@ -1,6 +1,7 @@
 ---
 title: YSU, faculty of Information Technologies.
 period: 2008 September - 2010 August
+layout: post
 ---
 <div class="sub">
 	Did research and proposed new algorithm for memory BIST march test generation that are detecting given set of functional fault models.
