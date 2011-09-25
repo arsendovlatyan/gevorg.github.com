@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Gevorg Harutyunyan's work and basic information details.
 ---
 
 ## Experience
