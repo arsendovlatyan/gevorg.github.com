@@ -16,11 +16,11 @@ As a part of payment area development team took part in implementation of variou
 
 ## Payment page rework
 
- - Converted JSP implementation of [be2] payment system pages to [JSF].
+ - Converted [JSP] implementation of [be2] payment system pages to [JSF].
 
 ## FORN project
 
- - Participated in implementation of [be2] payment system that is allowing to setup trial product offers with small price, with recurring continuation with another price.
+ - Participated in implementation of one part of [be2] payment system that is allowing to setup trial product offers with small price, with recurring continuation with another price.
 
 [be2]: http://www.be2.com/
 [be2 ltd]: http://corporate.be2.com/
