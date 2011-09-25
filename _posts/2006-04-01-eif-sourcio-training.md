@@ -4,7 +4,7 @@ period: 2006 April - 2006 November
 layout: post
 ---
 Participated in training courses([MySQL], [Java], [JavaScript], [CSS], [HTML]) from [EIF] and [Sourcio]. 
-During that time developed many versions of web operating system.
+During that time developed few versions of web operating system.
 
 ## The first version of WebOS
 
@@ -16,7 +16,12 @@ During that time developed many versions of web operating system.
 
  - Implementation renamed to Soongy WebOS.
  - It was using plain [JavaScript], [CSS], [HTML], [PHP], [MySQL].
- 
+ - [Scribd] integration was done to add document support.
+ - Implementation was published to [Bluehost] [LAMP] under domain soongy.com.
+
+## Final
+
+ - No new versions were developed, after users started uploading adult content, soongy.com suspended.
 
 [EIF]: http://www.eif.am/
 [Sourcio]: http://www.sourcio.com/
@@ -27,3 +32,6 @@ During that time developed many versions of web operating system.
 [JavaScript]: http://en.wikipedia.org/wiki/JavaScript
 [ActiveX]: http://en.wikipedia.org/wiki/ActiveX
 [PHP]: http://www.php.net/
+[Scribd]: http://www.scribd.com/
+[Bluehost]: http://www.bluehost.com/
+[LAMP]: http://en.wikipedia.org/wiki/LAMP_(software_bundle)
