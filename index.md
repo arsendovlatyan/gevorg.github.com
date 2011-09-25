@@ -5,3 +5,27 @@ layout: default
 
 # Gevorg Harutyunyan
 Work and basic information details.
+
+## Experience
+Experience info.
+
+## World coverage
+I born on May 5, 1987 in Yerevan, Armenia and since that time I live here. I had some business trips to Munich, Germany and some nonbusiness trips to armenian regions.
+
+## Me in few words
+Me in few words.
+
+## Languages I use
+
+ - **Armenian** - My native language.
+ - **Russian** - Like a native.
+ - **English** - Fluent in technical stuff, however I will not be able fluently retell you some novel.
+ - **Hebrew** - Just started learning.
+
+## How to find me
+You can contact me:
+
+ - **Via mobile +(374)94236979** - If I am not available, wait five minutes and I will call you back.
+ - **Via email [i@gevorg.me]** - I am constantly checking my inbox.
+ 
+[i@gevorg.me]: mailto:i@gevorg.me
