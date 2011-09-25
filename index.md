@@ -12,7 +12,7 @@ keywords: Gevorg, Harutyunyan
 
 ## World coverage
 
-I born on May 5, 1987 in Yerevan, Armenia and since that time I live here. I had some business trips to Munich, Germany and some nonbusiness trips to armenian regions.
+I was born on May 5, 1987 in Yerevan, Armenia and since that time I live here. I had some business trips to Munich, Germany and some nonbusiness trips to armenian regions.
 
 ## Languages
 
