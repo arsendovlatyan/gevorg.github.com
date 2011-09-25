@@ -3,7 +3,7 @@ title: YSU, faculty of Informatics and Applied Mathematics.
 period: 2004 September - 2008 August
 layout: post
 ---
-Studied Yerevan State University, faculty of Informatics and Applied Mathematics and got bachelor's degree. 
+Studied [Yerevan State University], faculty of Informatics and Applied Mathematics and got bachelor's degree. 
 During that time developed few versions of web crawler localized for armenian web pages.
 
 ## The first version of crawler
@@ -39,3 +39,4 @@ During that time developed few versions of web crawler localized for armenian we
 [MongoDB]: http://www.mongodb.org/
 [Slicehost]: http://www.slicehost.com/
 [PHP]: http://www.php.net/
+[Yerevan State University]: http://ysu.am
