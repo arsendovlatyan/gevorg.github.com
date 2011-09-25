@@ -10,7 +10,7 @@ Work and basic information details.
 ## Experience
 
 {% for post in site.posts %}
- - **{{ post.period }}** - {{ post.title }}
+ - **{{ post.period }}** [{{ post.title }}]:({{ post.url }})
 {% endfor %}
 
 ## World coverage

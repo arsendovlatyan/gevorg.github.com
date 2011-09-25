@@ -1,5 +1,5 @@
 ---
-title: Yerevan State University, faculty of Information Technologies.
+title: YSU, faculty of Information Technologies.
 period: 2008 September - 2010 August
 ---
 <div class="sub">
