@@ -10,7 +10,7 @@ Did experiments with technologies that propose solution for [C10k problem]. As a
 
  - Implementation was based on [lighthttpd].
  - It was written in [PHP].
- - It was hosted on [Slichost] slice.
+ - It was hosted on [Slicehost] slice.
 
 ## The second version
 
