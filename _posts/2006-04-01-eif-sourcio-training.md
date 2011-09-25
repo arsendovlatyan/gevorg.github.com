@@ -2,6 +2,7 @@
 title: EIF / Sourcio training of web technologies.
 period: 2006 April - 2006 November
 layout: post
+keywords: eif, sourcio, training, Gevorg, Harutyunyan
 ---
 Participated in training courses([MySQL], [Java], [JavaScript], [CSS], [HTML]) from [EIF] and [Sourcio]. 
 During that time developed few versions of web operating system.

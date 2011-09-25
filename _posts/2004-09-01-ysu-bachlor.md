@@ -2,6 +2,7 @@
 title: YSU, faculty of Informatics and Applied Mathematics.
 period: 2004 September - 2008 August
 layout: post
+keywords: ysu, bachlor, Gevorg, Harutyunyan
 ---
 Studied [Yerevan State University], faculty of Informatics and Applied Mathematics and got bachelor's degree. 
 During that time developed few versions of web crawler localized for armenian web pages.

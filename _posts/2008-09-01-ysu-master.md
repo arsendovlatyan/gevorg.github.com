@@ -2,6 +2,7 @@
 title: YSU, faculty of Information Technologies.
 period: 2008 September - 2010 August
 layout: post
+keywords: ysu, master, Gevorg, Harutyunyan
 ---
 Studied [Yerevan State University], faculty of Information Technologies and got master's degree. 
 During that time did research and proposed new algorithm for memory [BIST] march test generation.

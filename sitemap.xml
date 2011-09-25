@@ -1,18 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 	<url>
-		<loc>
-			http://gevorg.me/
-		</loc>
-		<changefreq>
-			daily
-		</changefreq>
-		<priority>
-			1.00
-		</priority>
+		<loc>http://gevorg.me/</loc>
+		<lastmod>2011-09-25T11:38:21+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.00</priority>
+	</url>
+	<url>
+		<loc>http://gevorg.me/2011/05/01/experiments.html</loc>
+		<lastmod>2011-09-25T11:38:21+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.85</priority>
+	</url>
+	<url>
+		<loc>http://gevorg.me/2011/03/01/j2ee-attask.html</loc>
+		<lastmod>2011-09-25T11:38:21+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.85</priority>
+	</url>
+	<url>
+		<loc>http://gevorg.me/2007/03/01/junior-j2ee-be2.html</loc>
+		<lastmod>2011-09-25T11:38:21+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.85</priority>
+	</url>
+	<url>
+		<loc>http://gevorg.me/2008/07/01/j2ee-be2.html</loc>
+		<lastmod>2011-09-25T11:38:21+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.85</priority>
+	</url>
+	<url>
+		<loc>http://gevorg.me/2008/09/01/ysu-master.html</loc>
+		<lastmod>2011-09-25T11:38:21+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.85</priority>
+	</url>
+	<url>
+		<loc>http://gevorg.me/2006/04/01/eif-sourcio-training.html</loc>
+		<lastmod>2011-09-25T11:38:21+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.85</priority>
+	</url>
+	<url>
+		<loc>http://gevorg.me/2004/09/01/ysu-bachlor.html</loc>
+		<lastmod>2011-09-25T11:38:21+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.85</priority>
 	</url>
 </urlset>

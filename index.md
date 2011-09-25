@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Gevorg Harutyunyan's work and basic information details.
+keywords: Gevorg, Harutyunyan
 ---
 
 ## Experience

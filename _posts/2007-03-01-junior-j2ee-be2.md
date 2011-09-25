@@ -2,6 +2,7 @@
 title: Junior J2EE Engineer be2 Ltd.
 period: 2007 March - 2008 June
 layout: post
+keywords: junior, j2ee, be2, Gevorg, Harutyunyan
 ---
 Joined [be2 ltd] as a junior j2ee developer. 
 As a part of payment area development team took part in implementation of various payment system related projects.
