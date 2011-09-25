@@ -17,7 +17,7 @@ During that time developed few versions of web operating system.
  - Implementation renamed to Soongy WebOS.
  - It was using plain [JavaScript], [CSS], [HTML], [PHP], [MySQL].
  - [Scribd] integration was done to add document support.
- - Implementation was published to [Bluehost] [LAMP] under domain soongy.com.
+ - Implementation was published to [Bluehost] under domain soongy.com.
 
 ## Final
 
@@ -34,4 +34,3 @@ During that time developed few versions of web operating system.
 [PHP]: http://www.php.net/
 [Scribd]: http://www.scribd.com/
 [Bluehost]: http://www.bluehost.com/
-[LAMP]: http://en.wikipedia.org/wiki/LAMP_(software_bundle)
