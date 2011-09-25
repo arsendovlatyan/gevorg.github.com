@@ -1,5 +1,5 @@
 ---
-title: J2EE Engineer <a href="http://corporate.be2.com" id="be2 Ltd" target="_blank">be2 Ltd</a>.
+title: J2EE Engineer be2 Ltd.
 period: 2008 July - 2011 February
 ---
 <div class="sub">

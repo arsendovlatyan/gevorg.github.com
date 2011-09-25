@@ -1,5 +1,5 @@
 ---
-title: <a href="http://grir.am" id="grir.am" target="_blank">grir.am</a>
+title: Experimenting.
 period: 2011 May - 2011 September
 ---
 <div class="sub">

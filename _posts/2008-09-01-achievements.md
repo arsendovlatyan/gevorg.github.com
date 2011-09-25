@@ -1,5 +1,5 @@
 ---
-title: <a href="http://ysu.am" id="Yerevan State University" target="_blank">Yerevan State University</a>, faculty of Information Technologies.
+title: Yerevan State University, faculty of Information Technologies.
 period: 2008 September - 2010 August
 ---
 <div class="sub">

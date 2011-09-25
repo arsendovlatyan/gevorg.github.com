@@ -1,5 +1,5 @@
 ---
-title: <a href="http://ysu.am" id="Yerevan State University">Yerevan State University</a>, faculty of Informatics and Applied Mathematics.
+title: Yerevan State University, faculty of Informatics and Applied Mathematics.
 period: 2004 September - 2008 August
 ---
 <div class="sub">
