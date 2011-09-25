@@ -4,7 +4,7 @@ period: 2004 September - 2008 August
 layout: post
 ---
 Studied Yerevan State University, faculty of Informatics and Applied Mathematics and got bachelor's degree. 
-During that time developed many versions of web crawler localized for armenian web pages.
+During that time developed few versions of web crawler localized for armenian web pages.
 
 ## The first version of crawler
 
